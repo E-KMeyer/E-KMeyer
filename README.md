@@ -15,7 +15,7 @@
 ---
 ## Tecnologias que eu uso no meu dia a dia
 ---
-
+<div align="center">
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,6 +24,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+</div>
 <hr>
 ... Passionate about technology, education and changing people’s lives through programming, in search of knowledge to improve my skills, I am a Computer Engineering student, Technical Analyst with 10 years of experience in remote and on-site technical support from domestic to corporate users, always in search of knowledge. I have ease in dealing with people, I like challenges and teamwork. In addition, I have good communication and analysis skills, quickly adapting to new technologies and work methodologies. I am ready to find a new professional challenge that allows me to apply my knowledge, acquire experiences and develop my skills.
 <hr>
