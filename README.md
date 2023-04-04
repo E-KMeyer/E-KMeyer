@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=E-KMeyer&show_icons=true&theme=dark#gh-dark-mode-only" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-KMeyer&hide_progress=true" width="45%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-KMeyer&hide_progress=true&theme=dark#gh-dark-mode-only" width="45%"/> 
 </p>
 
 ## Technologies I use in my daily life.
