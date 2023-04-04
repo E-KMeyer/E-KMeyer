@@ -4,9 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enio-meyer/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/04aul2)
 
+
 <div align="center">
   <a href="https://github.com/E-KMeyer">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=E-KMeyer&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=E-KMeyer&show_icons=true&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-KMeyer&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
