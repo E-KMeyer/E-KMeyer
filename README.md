@@ -1,6 +1,5 @@
-### Hi there! I am Enio K S .👋
-#
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4978&pause=1000&color=00C018&background=3C52FF00&multiline=true&width=500&lines=Hi+there!+I+am+Enio+K+S+.%F0%9F%91%8B)
+---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enio.kaique/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enio-meyer/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/04aul2)
